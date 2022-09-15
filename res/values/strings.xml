@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Math Game</string>
+    <string name="btnAddition">Addition</string>
+    <string name="btnSubtract">subtraction</string>
+    <string name="btnMulti">multiplication</string>
+    <string name="score">Score</string>
+    <string name="live">Live</string>
+    <string name="time">Time</string>
+    <string name="answer">Input Answer Here</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnNext">Next Question</string>
+    <string name="congrats">Congratulations, Your answer is correct!!</string>
+    <string name="wrong">Sorry, your answer is wrong :(</string>
+    <string name="timeout">Sorry, Time is up :(</string>
+    <string name="conResult">CONGRATULATIONSS!!</string>
+    <string name="scoreResult">SCORE : </string>
+    <string name="btnAgain">play again</string>
+    <string name="btnExit">Exit</string>
+    <string name="gameOver">GAME OVER</string>
+    <string name="beg">Please Input Your Answer</string>
+</resources>

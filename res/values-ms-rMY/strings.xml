@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Permainan Math</string>
+    <string name="btnAddition">tambah</string>
+    <string name="btnSubtract">tolak</string>
+    <string name="btnMulti">darab</string>
+    <string name="score">Markah</string>
+    <string name="live">Nyawa</string>
+    <string name="time">Masa</string>
+    <string name="answer">Jawapan Di Sini</string>
+    <string name="btnSubmit">Hantar</string>
+    <string name="btnNext">Seterusnya</string>
+    <string name="congrats">Tahniah, Jawapan anda tepat sekali!!</string>
+    <string name="wrong">Maaf, jawapan anda salah :(</string>
+    <string name="timeout">Maaf, Masa sudah habis :(</string>
+    <string name="conResult">TAHNIAHH!!</string>
+    <string name="scoreResult">"MARKAH : "</string>
+    <string name="btnAgain">Main lagi</string>
+    <string name="btnExit">Keluar</string>
+    <string name="gameOver">PERMAINAN TAMAT</string>
+    <string name="beg">Tolong Masukkan Jawapan Anda</string>
+</resources>
